@@ -15,6 +15,8 @@
 - Use /shield to turn on or off PowerupShield!
 - Use /contact to Contact Me!
 
-All rights to Mikahael as the License states above.
-Created by PCModder/Avarohana/PC231392
-Soecial Thanks to Blitz and ByAngel3L
+𝘼𝙡𝙡 𝙧𝙞𝙜𝙝𝙩𝙨 𝙩𝙤 𝙈𝙞𝙠𝙖𝙝𝙖𝙚𝙡 𝙖𝙨 𝙩𝙝𝙚 𝙇𝙞𝙘𝙚𝙣𝙨𝙚 𝙨𝙩𝙖𝙩𝙚𝙨 𝙖𝙗𝙤𝙫𝙚.
+
+𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝙗𝙮 𝙋𝘾𝙈𝙤𝙙𝙙𝙚𝙧/𝘼𝙫𝙖𝙧𝙤𝙝𝙖𝙣𝙖/𝙋𝘾231392
+
+𝙎𝙤𝙚𝙘𝙞𝙖𝙡 𝙏𝙝𝙖𝙣𝙠𝙨 𝙩𝙤 𝘽𝙡𝙞𝙩𝙯 𝙖𝙣𝙙 𝘽𝙮𝘼𝙣𝙜𝙚𝙡3𝙇
