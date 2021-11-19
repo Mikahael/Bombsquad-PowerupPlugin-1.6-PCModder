@@ -21,4 +21,6 @@
 
 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝙏𝙝𝙖𝙣𝙠𝙨 𝙩𝙤 𝘽𝙡𝙞𝙩𝙯 𝙖𝙣𝙙 𝘽𝙮𝘼𝙣𝙜𝙚𝙡3𝙇
 
+#To whom ever this may concern, All rights to Mikahael aka PCModder/Avarohana as the License states above.
+
 ![image](https://user-images.githubusercontent.com/54455412/141500067-abc7b00d-c696-4a59-b197-58db8d031990.jpeg)
