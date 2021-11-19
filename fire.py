@@ -1,6 +1,7 @@
 #da settings file
 #fore the Simple Powerup Mods for 1.6
 #by PCModder/PC231392/Avarohana
+##To whom ever this may concern, All rights to Mikahael aka PCModder/Avarohana as the License states above.
 power_name = True
 discoLight = True
 shield= True
